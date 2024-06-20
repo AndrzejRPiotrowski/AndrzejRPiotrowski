@@ -1,6 +1,5 @@
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 10 level
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) Link
-
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) 15 level
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) https://www.behance.net/anens
 Testing :
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
@@ -21,10 +20,10 @@ Testing :
 
 
 - 👋 Hi, I’m @AndrzejRPiotrowski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in GRC (ISO27001/TISAX/NIST)
+- 🌱 I’m currently learning CISSP/ISO27032
+- 💞️ I’m looking to collaborate on GRC
+- 📫 How to reach me - andrzejrpiotrowski@gmail.com
 
 <!---
 AndrzejRPiotrowski/AndrzejRPiotrowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
